@@ -1,4 +1,4 @@
-<img src="https://iili.io/LZUo0u.png"/>
+<img src="https://iili.io/LZUo0u.png" height="200" width="100"/>
 <a href="https://bitcoin-cambios.netlify.app/">https://bitcoin-cambios.netlify.app/</a>
 <hr/>
 <h2>Bitcoin exchange App</h2>
